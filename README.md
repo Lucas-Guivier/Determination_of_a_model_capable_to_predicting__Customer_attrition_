@@ -1,0 +1,1 @@
+# Determination_of_a_model_capable_to_predicting__Customer_attrition_
